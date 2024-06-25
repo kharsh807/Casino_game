@@ -6,9 +6,6 @@ This is a simple casino game implemented in C++. Players can bet on a number bet
 - [Features](#features)
 - [How to Play](#how-to-play)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - Players can set their initial wallet amount.
@@ -42,6 +39,7 @@ bash
 Copy code
 g++ casino_game.cpp -o casino_game
 Replace g++ with your preferred C++ compiler.
+
 
 Usage
 Once compiled, run the executable:
