@@ -24,3 +24,29 @@ This is a simple casino game implemented in C++. Players can bet on a number bet
 5. Enjoy playing the game and try to maximize your balance!
 
 
+## Installation
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/kharsh807/Casino_game.git
+Navigate into the project directory:
+
+bash
+Copy code
+cd Casino_game
+Compile the casino_game.cpp file. Example using g++:
+
+bash
+Copy code
+g++ casino_game.cpp -o casino_game
+Replace g++ with your preferred C++ compiler.
+
+Usage
+Once compiled, run the executable:
+
+bash
+Copy code
+./casino_game
+Follow the on-screen instructions to play the game.
